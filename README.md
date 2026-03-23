@@ -38,8 +38,7 @@ No API key required — powered by the free & open-source [Open-Meteo](https://o
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
-cd weather-app
+git clone https://github.com/7amo127/weather-app-python.git
 ```
 
 ### Run directly with Python
@@ -183,6 +182,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## 👤 Author
 
-Made with ❤️ by **[YOUR_NAME](https://github.com/YOUR_USERNAME)**
+Made with ❤️ by **[Abosliman](https://github.com/7amo127)**
 
 > If you found this useful, give it a ⭐ on GitHub!
